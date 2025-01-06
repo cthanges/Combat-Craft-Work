@@ -1,1 +1,2 @@
 # Combat-Craft-Work
+As part of TMU Combat Craft, I've had the opportunity to work alongisde the controls subteam and communications subteam (as part of the software team) and the safety and sensors subteam (as part of the electrical team) for our battlebot. Currently, our team is focusing on building a rover alongside Frontier, the student space society at my university. In this repo, you will find some of the work I have been doing throughout my time here.
